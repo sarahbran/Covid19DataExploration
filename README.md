@@ -1,4 +1,6 @@
 # Covid-19 Data Exploration (2020-2021)
+The aim of this project is to create an interactive dashboard to visualize the Covid-19 numbers across the world regards infections, deaths, and vaccinations. 
+Although it is a simple project, the purpose was to get familiar with SQL queries and Tableau software. 
 
 ## Project Overview
     • Data exploration using MySQL database to answer questions regards infections, deaths, and vaccinations. 
