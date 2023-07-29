@@ -17,5 +17,7 @@ Create a dashboard to visualize, interact and answer those questions:
       And what about the infections?
 
 ## Visualizations
-The Dashboard is available [here]([https://www.google.com](https://github.com/sarahbran/Covid19DataExploration/blob/main/Tableau%20Dashboard%20(World%20Covid%20Data).png)https://github.com/sarahbran/Covid19DataExploration/blob/main/Tableau%20Dashboard%20(World%20Covid%20Data).png)
+The Dashboard is available [here](https://github.com/sarahbran/Covid19DataExploration/blob/main/Tableau%20Dashboard%20(World%20Covid%20Data).png).
+
+
 
